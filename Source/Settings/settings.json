@@ -1,0 +1,30 @@
+{
+  "botToken": "OTM2NTU2Nzc4NDUwMjEwODQ2.YfO6eA.3f6iYoOz1BvP8cXZxxoaIf5rKuE",
+  "botOwner": "598205580137594927",
+  "botPrefix": ".",
+  "botVoiceChannel": "896493419453612171",
+  "botActivityName": "Developed By Chavo",
+  "botActivityType": "WATCHING",
+  "botStatus": "dnd",
+
+  "mongoConnectionLink": "mongodb://nurummm:nurum@cluster0-shard-00-00.rjvlw.mongodb.net:27017,cluster0-shard-00-01.rjvlw.mongodb.net:27017,cluster0-shard-00-02.rjvlw.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-94zmpr-shard-0&authSource=admin&retryWrites=true&w=majority",
+
+  "welcomeChannel": "935690564031119420",
+  "rulesChannel": "896493419663343672",
+  "Suspicious": "935879188337033266",
+  "Unregistered": "935698931583680552",
+
+
+  "FamilyRole": "TAGROLID",
+  "Tag": "TAG",
+  "Untag": "UNTAG",
+
+  "RegisterStaff": ["935700825823662111"],
+  "ManRole": "935496354048909354",
+  "WomanRole": "935496346985725984",
+  "BoosterRole": "897889663350628414",
+
+  "Yes": "🟢",
+  "No": "🔴"
+
+}
