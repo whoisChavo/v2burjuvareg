@@ -26,7 +26,7 @@ module.exports = {
     await user.setNickname(`${name_2}`);
 
     if(!user.roles.cache.has(settings.ManRole) && !user.roles.cache.has(settings.WomanRole)) {
-    const kanal = client.channels.cache.get("908734497195954236");
+    const kanal = client.channels.cache.get("935687858142990347");
 
     var button_1 = new MessageButton()
     .setID("MAN")
