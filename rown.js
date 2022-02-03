@@ -121,7 +121,7 @@ client.on("guildMemberAdd", async (member) => {
   Sunucu kurallarımız <#${settings.rulesChannel}> kanalında belirtilmiştir.Okumayı Unutma!\n\n**`)
   .addFields(
   {name: `Hesabın \`${moment(member.user.createdAt).locale("tr").format("LLL")}\` tarihinde`,value:`\`(${client.giris(member.user.createdAt)})\` açılmış.`},
-  {name:`Tagımızı alarak bizlere destek olabilirsin.`,value:`\`⟡ / Burjuva / Brj \``},
+  {name:`Tagımızı alarak bizlere destek olabilirsin.`,value:`\`४ / Burjuva / Brj \``},
   )
 
 
